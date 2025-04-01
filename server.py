@@ -15,6 +15,6 @@ if __name__ == '__main__':
     app.run(host='0.0.0.0', port=port)
 
 
-# My web:
+# My web: https://precious-fluoridated-muskox.glitch.me/
 # create git with only this directory on git. just files of that github
 # My Projects: https://glitch.com/dashboard?group=owned&sortColumn=boost&sortDirection=DESC&page=1&showAll=false&filterDomain=
